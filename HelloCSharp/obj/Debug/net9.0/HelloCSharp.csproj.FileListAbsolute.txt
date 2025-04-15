@@ -12,3 +12,4 @@ C:\Users\OMISTAJA\HelloCSharp\Program\L05\L05T01\HelloCSharp\obj\Debug\net9.0\re
 C:\Users\OMISTAJA\HelloCSharp\Program\L05\L05T01\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
 C:\Users\OMISTAJA\HelloCSharp\Program\L05\L05T01\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
 C:\Users\OMISTAJA\HelloCSharp\Program\L05\L05T01\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll
+C:\Users\OMISTAJA\HelloCSharp\Program\L05\L05T01\HelloCSharp\obj\Debug\net9.0\HelloCSharp.sourcelink.json

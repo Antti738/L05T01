@@ -1,9 +1,13 @@
-﻿public class Program
+﻿//Tulostetaan metodi-info teksti
+class Program
 {
-   public static void Main()
-    {
-        Console.WriteLine("Olen Info-metodi");
+    public static string ShowInfo()
+{
+    return "Olen Info-metodi!";
+}
+ static void Main()
+{
+    //Tulostetaan metodi-info teksti
+    Console.WriteLine(ShowInfo());
     }
-
-    
 }
